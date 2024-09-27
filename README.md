@@ -1,7 +1,41 @@
-## Hi there 👋
+<h1>Hi, I'm Chris! 
+
+<h2>👨‍💻 General IT Projects:</h2>
+
+ <b>Active Directory Home Lab
+
+ <b>DNS Home Lab
+
+ <b>Ticketing Systems (os Ticket)
+
+ <b>VPN Home Lab
+
+ <b>Network Fileshares and Permissions Homelab
+  
+<h2> Certifications </h2>
+
+Google Cybersecurity Certification https://coursera.org/share/e14c4d1094d4517f465105efc629334f
+
+Cybersecurity Governance Risk and Compliance (GRC) Mastery Certification https://www.grcmastery.com/courses/2151860/certificate?pdf=true
+
+Google IT Support Professional Certificate https://coursera.org/share/3f95e88f07f0d80a3f1c835cbd5fe7d5
+
+Wireshark for Beginners:Capture Packets https://coursera.org/share/4e0dfb16ab450d1ec2856df0d3f652be
+
+Wireshark for Basic Network Security Analysis https://coursera.org/share/fa932dff535ca781334e7379255c238c 
+
+Microsoft Windows Defender and Firewall for Beginners
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://linkedin.com/in/christopherwinn
 
 <!--
-**Winn1982/Winn1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
