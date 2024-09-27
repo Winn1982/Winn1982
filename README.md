@@ -11,6 +11,8 @@
  <b>VPN Home Lab
 
  <b>Network Fileshares and Permissions Homelab
+
+ <b>Azure Create a Resource Group
   
 <h2> Certifications </h2>
 
