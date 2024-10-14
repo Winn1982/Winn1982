@@ -2,15 +2,9 @@
 
 <h2>👨‍💻 General IT Projects:</h2>
 
- <b>Active Directory Home Lab
-
- <b>DNS Home Lab
+ <b>Active Directory Lab
 
  <b>Ticketing Systems (os Ticket)
-
- <b>VPN Home Lab
-
- <b>Network Fileshares and Permissions Homelab
 
  <b>Azure Create a Resource Group
   
