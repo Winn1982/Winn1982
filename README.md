@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chris! 
+<h1>Hi, I'm Chris, an <a href="https://linkedin.com/in/christopher-winn-14102a286">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 General IT Projects:</h2>
 
@@ -30,7 +30,7 @@ Microsoft Windows Defender and Firewall for Beginners https://coursera.org/share
 
 
 
-[linkedin]: https://www.linkedin.com/in/christopher-winn-14102a286
+
 
 
 <!--
