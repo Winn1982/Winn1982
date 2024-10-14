@@ -23,7 +23,7 @@ Wireshark for Beginners:Capture Packets https://coursera.org/share/4e0dfb16ab450
 Wireshark for Basic Network Security Analysis https://coursera.org/share/fa932dff535ca781334e7379255c238c 
 
 Microsoft Windows Defender and Firewall for Beginners https://coursera.org/share/3f95e88f07f0d80a3f1c835cbd5fe7d5
-<h2> 🤳 Connect with me:</h2>
+
 
 
 
