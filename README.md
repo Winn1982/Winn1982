@@ -28,7 +28,7 @@ Microsoft Windows Defender and Firewall for Beginners https://coursera.org/share
 
 
 
-[linkedin]: www.linkedin.com/in/christopher-winn-14102a286
+[linkedin]: https://www.linkedin.com/in/christopher-winn-14102a286
 
 
 <!--
