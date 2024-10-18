@@ -12,6 +12,8 @@
   - [Creating Azure Resource Group and Virtual Machine (Azure Crash Course)](https://github.com/winn1982/azure-crash-course)
 <h2> Certifications </h2>
 
+Course Careers Information Technology Course https://imgur.com/LMHK99p
+
 Google Cybersecurity Certification https://coursera.org/share/e14c4d1094d4517f465105efc629334f
 
 Cybersecurity Governance Risk and Compliance (GRC) Mastery Certification https://www.grcmastery.com/courses/2151860/certificate?pdf=true
