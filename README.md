@@ -10,6 +10,10 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/winn1982/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/winn1982/azure-network-protocols)
   - [Creating Azure Resource Group and Virtual Machine (Azure Crash Course)](https://github.com/winn1982/azure-crash-course)
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+
 <h2> Certifications </h2>
 
 Course Careers Information Technology Course https://imgur.com/LMHK99p
