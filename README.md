@@ -17,6 +17,7 @@
 <h2> Certifications </h2>
 CompTia A+ Certification https://cp.certmetrics.com/comptia/en/public/verify/credential/BH3KER4QWBE15FK2
 
+
 Course Careers Information Technology Course https://imgur.com/LMHK99p
 
 Google Cybersecurity Certification https://coursera.org/share/e14c4d1094d4517f465105efc629334f
