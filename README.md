@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 General IT Projects:</h2>
 - <b>Reimaging Lab (Reimage Old HP laptop from Windows 10 to Ubuntu)</b>
-- <b>osTicket (Help Desk Ticketing System)</b>
+- 
+<b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/winn1982/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/winn1982/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/winn1982/ticket-lifecycle)
