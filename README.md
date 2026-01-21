@@ -4,6 +4,8 @@
 
 - <b>Reimaging Lab(Reimage HP laptop Windows 10 to Ubuntu)</b>
 
+  - https://github.com/Winn1982/Reimaging-Lab.git
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/winn1982/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/winn1982/post-install-config)
