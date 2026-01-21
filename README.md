@@ -2,7 +2,11 @@
 
 <h2>👨‍💻 General IT Projects:</h2>
 
-- <b>Reimaging Lab(Reimage HP laptop Windows 10 to Ubuntu)</b>
+- ## System Reimaging & OS Migration Lab
+
+   ## Objective
+    Reimage a system by replacing Windows with Ubuntu Linux and verify successful deployment.
+
 
   - [Reimaging a Windows PC to Ubuntu](https://github.com/Winn1982/Reimaging-Lab.git)
 
