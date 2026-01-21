@@ -1,7 +1,7 @@
 <h1>Hi, I'm Chris, an <a href="https://linkedin.com/in/christopher-winn-14102a286">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 General IT Projects:</h2>
--<b>Reimaging Lab(Reimage HP laptop Windows 10 to Ubuntu)</b>
+- <b>Reimaging Lab(Reimage HP laptop Windows 10 to Ubuntu)</b>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/winn1982/osticket-prereqs)
