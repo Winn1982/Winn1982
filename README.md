@@ -2,13 +2,11 @@
 
 <h2>👨‍💻 General IT Projects:</h2>
 
-- ## System Reimaging & OS Migration Lab
+   - ## System Reimaging and OS Migration Lab
 
-   ## Objective
-    Reimage a system by replacing Windows with Ubuntu Linux and verify successful deployment.
+       Reimage a system by replacing Windows with Ubuntu Linux and verify successful deployment.
 
-
-  - [Reimaging a Windows PC to Ubuntu](https://github.com/Winn1982/Reimaging-Lab.git)
+      - [Reimaging a Windows PC to Ubuntu](https://github.com/Winn1982/Reimaging-Lab.git)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/winn1982/osticket-prereqs)
