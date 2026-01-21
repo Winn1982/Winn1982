@@ -10,7 +10,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/winn1982/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/winn1982/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/winn1982/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure</b> <b>(Minimal Cybersecurity Concpets)<b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/winn1982/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/winn1982/azure-network-protocols)
   - [Creating Azure Resource Group and Virtual Machine (Azure Crash Course)](https://github.com/winn1982/azure-crash-course)
