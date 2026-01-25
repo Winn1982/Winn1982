@@ -18,9 +18,10 @@
   - [Creating Azure Resource Group and Virtual Machine (Azure Crash Course)](https://github.com/winn1982/azure-crash-course)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-- Wazuh SIEM Lab 
-
--   https://github.com/Winn1982/Wazuh-Siem-Lab.git
+ 
+- <b> Wazuh SIEM Lab 
+   
+   - [Wazuh SIEM Lab]
 
 
 <h2> Certifications </h2>
