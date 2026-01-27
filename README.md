@@ -21,7 +21,8 @@
  
 - <b> Wazuh SIEM Lab 
    
-   - [Wazuh SIEM Lab](https://github.com/Winn1982/Wazuh-Siem-Lab.git)
+   - [Wazuh SIEM Deployment](https://github.com/Winn1982/Wazuh-Siem-Lab.git)
+   - [Wazuh Security Event & Monitoring]
 
 
 <h2> Certifications </h2>
