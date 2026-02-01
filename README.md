@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 General IT Projects:</h2>
 
+   - ## <b>Intune-Endpoint-Management Lab</b>
+      (In Progress)
+
    - ## System Reimaging and OS Migration Lab
 
        Reimage a system by replacing Windows with Ubuntu Linux and verify successful deployment.
