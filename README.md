@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 General IT Projects:</h2>
 
-   - ## <b>IAM Focused Active Directory Labs</b>
-      - <b>[Password Reset Workflow](In Progress)
 
    - ## <b>Intune-Endpoint-Management Lab</b>
       - <b>[Intune-Endpoint-Management Lab](https://github.com/Winn1982/Intune-Lab.git)
@@ -24,6 +22,9 @@
   - [Creating Azure Resource Group and Virtual Machine (Azure Crash Course)](https://github.com/winn1982/azure-crash-course)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- ## <b>IAM Focused Active Directory Labs</b>
+- <b> [Password Reset Workflow](In Progress)
  
 - <b> Wazuh SIEM Lab 
    
