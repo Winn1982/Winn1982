@@ -23,13 +23,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- ## <b>IAM Focused Active Directory Labs</b>
-- <b> [Password Reset Workflow](In Progress)
- 
 - <b> Wazuh SIEM Lab 
    
    - [Wazuh SIEM Deployment](https://github.com/Winn1982/Wazuh-Siem-Lab.git)
    - [Wazuh Security Event & Monitoring](https://github.com/Winn1982/wazuh-windows-security-monitoring.git)
+
+ <h2>👨‍💻 IAM Focused Active Directory Labs:</h2>
+   
+   - [Password Reset Workflow](https://github.com/Winn1982/AD-Account-Lockout-Resolution-Lab.git)
 
 
 <h2> Certifications </h2>
