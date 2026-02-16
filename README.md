@@ -29,8 +29,10 @@
    - [Wazuh Security Event & Monitoring](https://github.com/Winn1982/wazuh-windows-security-monitoring.git)
 
  <h2>👨‍💻 IAM Focused Active Directory Labs:</h2>
-   
-   - [Password Reset Workflow](https://github.com/Winn1982/AD-Account-Lockout-Resolution-Lab.git)
+
+ - <b> Active Directory Workflow Lab
+ 
+    - [Password Reset Workflow](https://github.com/Winn1982/AD-Account-Lockout-Resolution-Lab.git)
 
 
 <h2> Certifications </h2>
