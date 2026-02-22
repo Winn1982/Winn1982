@@ -31,6 +31,7 @@
  <h2>👨‍💻 IAM Focused Active Directory Labs:</h2>
 
  - <b> Active Directory Workflow Lab
+    - [User Provisioning] 
  
     - [Password Reset Workflow](https://github.com/Winn1982/AD-Account-Lockout-Resolution-Lab.git)
 
