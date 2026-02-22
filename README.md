@@ -3,7 +3,7 @@
 <h2>👨‍💻 General IT Projects:</h2>
 
 
-   - ## <b>Intune-Endpoint-Management Lab</b>
+   - ## <b>Intune</b>
       - <b>[Intune-Endpoint-Management Lab](https://github.com/Winn1982/Intune-Lab.git)
 
    - ## <b>System Reimaging and OS Migration Lab
