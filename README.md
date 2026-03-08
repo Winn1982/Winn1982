@@ -1,5 +1,23 @@
 <h1>Hi, I'm Chris, an <a href="https://linkedin.com/in/christopher-winn-14102a286">IT Professional</a>☺</h1>
 
+## IT Support & Help Desk Labs
+
+These labs demonstrate hands-on experience with system administration, troubleshooting, and help desk workflows.
+
+<h2>👨‍💻  macOS User Account Troubleshooting Lab<h2>
+ 
+Simulated a Tier 1 help desk scenario involving user account creation, login verification, and password reset using an administrator account.
+
+Skills demonstrated:
+
+- macOS user administration
+- Password reset troubleshooting
+- Terminal user verification
+- Help desk troubleshooting workflow
+
+Repository:  
+https://github.com/Winn1982/macOS-User-Account-Troubleshooting-Lab
+
 <h2>👨‍💻 Endpoint Management – Microsoft Intune Lab</h2>
 
 Implemented cloud-based endpoint management using Microsoft Intune to simulate enterprise device administration and policy enforcement.
