@@ -1,11 +1,11 @@
 <h1>Hi, I'm Chris, an <a href="https://linkedin.com/in/christopher-winn-14102a286">IT Professional</a>☺</h1>
 
  ## IT Support & Help Desk Labs
+ 
+ ## These labs demonstrate hands-on experience with system administration, troubleshooting, and help desk workflows.
 
-## These labs demonstrate hands-on experience with system administration, troubleshooting, and help desk workflows.
-
-
-<h2>👨‍💻  macOS User Account Troubleshooting Lab<h2>
+ 
+<h2>👨‍💻  macOS User Account Troubleshooting Lab</h2>
 
 Scope Included: 
 - Verify administrator access using the macOS Terminal.
@@ -18,13 +18,10 @@ Scope Included:
 - Log back into the standard user account using the new password.
 - Verify successful authentication and account functionality through Terminal
 
-  - <b>[macOS User Account Troubleshooting Lab]
+- <b> [macOS User Account Troubleshooting Lab](https://github.com/Winn1982/macOS-User-Account-Troubleshooting-Lab.git)
+
  
-
-  
-
-
-<h2>👨‍💻 Endpoint Management – Microsoft Intune Lab</h2>
+ <h2>👨‍💻 Endpoint Management – Microsoft Intune Lab</h2>
 
 Implemented cloud-based endpoint management using Microsoft Intune to simulate enterprise device administration and policy enforcement.
 
@@ -38,7 +35,7 @@ Scope Included:
 
 - <b>[Intune-Endpoint-Management Lab](https://github.com/Winn1982/Intune-Lab.git)
 
- <h2>👨‍💻System Reimaging & OS Migration Lab</h2>
+<h2>👨‍💻System Reimaging & OS Migration Lab</h2>
 
 Performed full system reimaging by replacing Windows with Ubuntu to simulate hardware refresh and operating system migration procedures.
 
