@@ -1,21 +1,27 @@
 <h1>Hi, I'm Chris, an <a href="https://linkedin.com/in/christopher-winn-14102a286">IT Professional</a>☺</h1>
 
-##  IT Support & Help Desk Labs
+ ## IT Support & Help Desk Labs
 
-These labs demonstrate hands-on experience with system administration, troubleshooting, and help desk workflows.
+## These labs demonstrate hands-on experience with system administration, troubleshooting, and help desk workflows.
 
-<h2> 👨‍💻  macOS User Account Troubleshooting Lab <h2>
+
+<h2>👨‍💻  macOS User Account Troubleshooting Lab<h2>
+
+Scope Included: 
+- Verify administrator access using the macOS Terminal.
+- Open System Preferences and navigate to Users & Groups.
+- Create a new standard user account to simulate an end user.
+- Assign login credentials and confirm successful account creation.
+- Log into the new user account and verify identity using the whoami command.
+- Simulate a help desk scenario requiring a password reset.
+- Log back into the administrator account and reset the user’s password.
+- Log back into the standard user account using the new password.
+- Verify successful authentication and account functionality through Terminal
+
+  - <b>[macOS User Account Troubleshooting Lab]
  
-Simulated a Tier 1 help desk scenario involving user account creation, login verification, and password reset using an administrator account.
 
-Skills demonstrated:
-
-- macOS user administration
-- Password reset troubleshooting
-- Terminal user verification
-- Help desk troubleshooting workflow
-
-- [macOS User Account Troubleshooting Lab]
+  
 
 
 <h2>👨‍💻 Endpoint Management – Microsoft Intune Lab</h2>
@@ -46,6 +52,7 @@ Scope Included:
 • Confirmed hardware driver compatibility
  Reimage a system by replacing Windows with Ubuntu Linux and verify successful deployment.
 
+
 - <b>[Reimaging a Windows PC to Ubuntu](https://github.com/Winn1982/Reimaging-Lab.git)
 
 <h2>👨‍💻 Help Desk Ticketing System Lab – osTicket</h2>
@@ -61,9 +68,12 @@ Scope Included:
 • Managed ticket lifecycle from creation to resolution
 • Documented troubleshooting steps and resolution notes
 • Closed tickets according to defined workflow policies
+
+
   - [osTicket: Prerequisites and Installation](https://github.com/winn1982/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/winn1982/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/winn1982/ticket-lifecycle)
+    
 <h2>👨‍💻 Cloud Infrastructure & Security Lab – Microsoft Azure</h2>
 
 Deployed and configured cloud-based infrastructure using Microsoft Azure to simulate enterprise Active Directory integration and network security management.
@@ -77,6 +87,8 @@ Scope Included:
 • Monitored inbound/outbound traffic rules
 • Inspected network protocols and connectivity behavior
 • Validated secure remote access configuration
+
+ 
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/winn1982/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/winn1982/azure-network-protocols)
   - [Creating Azure Resource Group and Virtual Machine (Azure Crash Course)](https://github.com/winn1982/azure-crash-course)
