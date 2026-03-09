@@ -4,8 +4,7 @@
  
  ## These labs demonstrate hands-on experience with system administration, troubleshooting, and help desk workflows.
 
- 
-<h2>👨‍💻  macOS User Account Troubleshooting Lab</h2>
+ <h2>👨‍💻 macOS User Account Troubleshooting Lab</h2>
 
 Scope Included: 
 - Verify administrator access using the macOS Terminal.
@@ -18,7 +17,7 @@ Scope Included:
 - Log back into the standard user account using the new password.
 - Verify successful authentication and account functionality through Terminal
 
-- <b> [macOS User Account Troubleshooting Lab](https://github.com/Winn1982/macOS-User-Account-Troubleshooting-Lab.git)
+  - <b>[macOS User Account Troubleshooting Lab](https://github.com/Winn1982/macOS-User-Account-Troubleshooting-Lab.git)
 
  
  <h2>👨‍💻 Endpoint Management – Microsoft Intune Lab</h2>
