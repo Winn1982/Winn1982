@@ -6,7 +6,7 @@
 
  <h2>👨‍💻 macOS User Account Troubleshooting Lab</h2>
 
-Scope Included: 
+<b>Scope Included: 
 - Verify administrator access using the macOS Terminal.
 - Open System Preferences and navigate to Users & Groups.
 - Create a new standard user account to simulate an end user.
