@@ -5,7 +5,23 @@
  ## These labs demonstrate hands-on experience with system administration, troubleshooting, and help desk workflows.
 
  <h2>👨‍💻 macOS Open Core Legacy Patcher Lab</h2>
- 
+ <b>Scope Included:
+
+- Verify system compatibility for upgrading a Late 2011 Mac to a newer macOS version.
+- Download and launch OpenCore Legacy Patcher (OCLP).
+- Use OCLP to download the macOS Sequoia installer.
+- Create a bootable USB installer for macOS Sequoia.
+- Build and install the OpenCore bootloader onto the USB drive.
+- Boot the Mac into the OpenCore environment using the Option (⌥) key.
+- Access Disk Utility and erase the target drive using APFS format.
+- Install macOS Sequoia on unsupported hardware.
+- Complete initial macOS setup and login configuration.
+- Launch OpenCore Legacy Patcher post-installation.
+- Apply required root patches to restore hardware functionality.
+- Reboot the system and verify successful OS installation.
+- Validate system functionality including Wi-Fi, audio, and USB devices.
+- Identify and document known limitations such as graphics acceleration and AirDrop support.
+
  <h2>👨‍💻 macOS User Account Troubleshooting Lab</h2>
 
 <b>Scope Included: 
