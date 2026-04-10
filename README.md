@@ -4,6 +4,8 @@
  
  ## These labs demonstrate hands-on experience with system administration, troubleshooting, and help desk workflows.
 
+ <h2>👨‍💻 macOS Open Core Legacy Patcher Lab</h2>
+ 
  <h2>👨‍💻 macOS User Account Troubleshooting Lab</h2>
 
 <b>Scope Included: 
