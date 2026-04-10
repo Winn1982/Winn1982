@@ -21,7 +21,8 @@
 - Reboot the system and verify successful OS installation.
 - Validate system functionality including Wi-Fi, audio, and USB devices.
 - Identify and document known limitations such as graphics acceleration and AirDrop support.
-
+   - <b>[macOS Open Core Legacy Patcher Lab](https://github.com/Winn1982/Mac-OS-Upgrade-Lab-Using-OpenCore-Legacy-Patcher.git)
+ 
  <h2>👨‍💻 macOS User Account Troubleshooting Lab</h2>
 
 <b>Scope Included: 
@@ -50,7 +51,7 @@ Scope Included:
 • Implemented configuration profiles
 • Monitored device status and policy enforcement
 
-- <b>[Intune-Endpoint-Management Lab](https://github.com/Winn1982/Intune-Lab.git)
+ - <b>[Intune-Endpoint-Management Lab](https://github.com/Winn1982/Intune-Lab.git)
 
 <h2>👨‍💻System Reimaging & OS Migration Lab</h2>
 
